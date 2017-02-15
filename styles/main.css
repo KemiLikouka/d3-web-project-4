@@ -1,0 +1,252 @@
+body {
+color:black;
+background-color:#fff;
+margin:0;
+}
+
+video {
+  max-width: 800px;
+display: block;
+margin: 0 auto;
+padding-top: 200px;
+
+
+
+}
+
+section01 {
+  display: block;
+  background-color: #f2deb0;
+  color: white;
+}
+
+section06 {
+  display: block;
+  background-color: #b5e06b;
+  color: white;
+}
+
+section08 {
+  display: block;
+  background-color: #6c8c36;
+  color: white;
+}
+
+section07 {
+  display: block;
+  background-color: #d64242;
+  color: white;
+}
+
+section10 {
+  display: block;
+  color: white;
+background:url("styles/ws_Bee_Macro_1920x1200 (4).jpg");
+   background-size: 1000px;
+}
+
+
+section05 {
+  display: block;
+  background-color: #fff;
+  color: white;
+  size: 10px;
+
+}
+
+section02{
+  display: block;
+  background-image: url("http://wallpapercave.com/wp/7k9OkR6.jpg");
+  color: white;
+  height: 900px;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+h4 {
+  background: center;
+  display: block;
+  font-size: 35px;
+  margin :0 auto;
+width: 1000px;
+padding-top: 160px;
+}
+
+
+
+img {
+  background: center;
+  display: block;
+  margin: auto;
+  margin-top: 90px;
+  width : 150px;
+   height : 150px;
+}
+
+section03 img {
+  background: center;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  width : 70px;
+   height : 70px;
+  margin-bottom: 100px;
+}
+
+section04 img {
+  background: center;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  width : 70px;
+   height : 70px;
+  margin-bottom: 100px;
+}
+
+h10 {
+  background: center;
+  display: block;
+  width: 600px;
+color: #000;
+padding-top: 50px;
+padding-bottom: 1px;
+margin-top: 0px;
+  font-size: 35px;
+  margin :0 auto;
+}
+
+h11 {
+background: center;
+display: block;
+margin: 0 auto;
+width: 600px;
+padding-top: 50px;
+padding-bottom: 1px;
+margin-top: 0px;
+color: #000;
+
+}
+
+h1 {
+background: center;
+display: block;
+margin: 0 auto;
+width: 600px;
+padding-top: 300px;
+margin-top: 0px;
+
+}
+
+
+h3 {
+  background: center;
+  display: block;
+    font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  margin :0 auto;
+width: 500px;
+padding-top: 100px;
+
+}
+
+h2 {
+  background: center;
+  display: block;
+  font-family: 'Lobster Two', cursive;
+  font-size: 80px;
+  margin :0 auto;
+width: 250px;
+padding-top: 150px;
+padding-bottom: 0px;
+}
+
+h8 {
+  background: center;
+  display: block;
+font-family: 'Source Sans Pro', sans-serif;
+  font-size: 80px;
+  margin :0 auto;
+width: 250px;
+padding-top: 150px;
+padding-bottom: 0px;
+}
+
+
+
+
+
+section03{
+  display: block;
+  background-color: #f9f1d6;
+  color: white;
+  height: 900px; }
+
+  section04{
+    display: block;
+    background-color:  #fff2e0;
+    color: #8e6c55;
+    height: 900px;
+  }
+
+
+ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-around;
+}
+
+.icones li {
+  background-color: #e8dd8d;
+  border: 2px solid #ffffff;
+width: 200px;
+height: 200px;
+margin: 10px;
+  border-radius: 50px;
+  text-align: center;
+    align-items: center;
+}
+
+
+.colors li{
+  display: flex;;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+  color: #fff;
+  text-align: center;
+  font-size: 2em;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  border: 2px solid #ffffff;
+
+}
+
+
+#color-1 {
+  background-color: #edbd4e;
+}
+
+#color-2 {
+  background-color:#f2deb0;
+}
+#color-3 {
+  background-color: #b5e06b;
+}
+#color-4 {
+  background-color:#6c8c36;
+}
+#color-5 {
+  background-color: #d64242;
+}
+#color-6 {
+  background-color: #752727;
+}

@@ -1,0 +1,50 @@
+h2 {
+  font-family: 'Special Elite', cursive;
+    font-size: 35px;
+    text-align: center;
+    color: #000;
+}
+
+h1 {
+font-family: 'Special Elite', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+h10 {
+font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+h11 {
+font-family: 'Special Elite', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+
+
+}
+ol {
+  font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+background-color: #fff;
+}
+
+ul {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  color: #fff;
+}
+
+section01 {
+  font-size: 40px;
+  height: 900px;
+font-family: 'Lobster Two', cursive;
+}
